@@ -1,6 +1,6 @@
 +++
 # Recent Publications widget.
-# This widget displays recent publications from `content/conference/`.
+# This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
