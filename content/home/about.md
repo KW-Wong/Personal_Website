@@ -27,7 +27,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "BEng in Nuclear and Risk Engineering"
+  course = "BEng in Nuclear Engineering"
   institution = "City University of Hong Kong"
   year = 2017
  
