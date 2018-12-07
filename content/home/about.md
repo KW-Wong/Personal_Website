@@ -27,9 +27,9 @@ weight = 5
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Nuclear and Risk Engineering"
+  institution = "City University of Hong Kong"
+  year = 2017
  
 +++
 
