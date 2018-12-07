@@ -26,6 +26,8 @@ math = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
+url_pdf = "pdf/my-paper-name.pdf"
+
 +++
 
 
