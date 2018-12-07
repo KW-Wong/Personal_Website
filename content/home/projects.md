@@ -38,7 +38,7 @@ filter_default = 0
 #   tag = "Deep Learning"
 #
 # [[filter]]
-#   name = "Other"
+#   name = "External Project"
 #   tag = "Demo"
 
 +++
