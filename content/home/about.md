@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in Nuclear Engineering"
   institution = "École Polytechnique Fédérale de Lausanne"
-  year = 2019 (Expected)
+  year = 2019
 
 [[education.courses]]
   course = "BEng in Nuclear Engineering"
