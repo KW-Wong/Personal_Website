@@ -22,9 +22,9 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Nuclear Engineering"
+  institution = "École Polytechnique Fédérale de Lausanne"
+  year = 2019
 
 [[education.courses]]
   course = "BEng in Nuclear and Risk Engineering"
