@@ -28,7 +28,9 @@ math = true
 
 
 +++
-This 3 month project was carried at the CFD Group, Laboratory of Scientific Computing and Modelling, Paul Scherrer Institute in Switzerland. The objective of the project is to test the capability of the PSI in-house CFD code, PSI-BOIL in simulating the phase change problem for the internally heated liquid. 
+This 3 month project was carried at the CFD Group, Laboratory of Scientific Computing and Modelling, Paul Scherrer Institute in Switzerland. 
+
+The objective of the project is to test the capability of the PSI in-house CFD code, PSI-BOIL in simulating the phase change problem for the internally heated liquid. After a successful verification and the bubble growth simulation, the investigation would be further extended to consider the void distribution of the molten salt reactor fuel channel during accident transient. 
 
 ```matlab
 # Example of code highlighting
