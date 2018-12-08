@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "DNS of Molten Salt Bubble Growth with PSI-BOIL"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "PSI-BOIL Semester Project"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
