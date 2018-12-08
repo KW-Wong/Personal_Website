@@ -49,7 +49,9 @@ caption = "1950s"
 The Beyond Design Basis Accident (BDBA) refers to the
 
 ## Core Degradation Phenomena in PWR
-g
+The core degradation process of the fuel assembly in PWR starts if the fuel is severely overheated due to the extensive loss of coolant, for instance, in LBLOCA scenario. In LBLOCA, the rapid depressurization leads to extensive loss of coolant due to instant flashing. The flashing of the coolant inventory overheated the fuel rod due to the complete loss of the conducting media for residual power stored in the fuel pellet. 
+
+The rapid increase of the cladding temperature signatures the start of departure from nucleate boiling (DNB).
 
 
 **OpenFOAM** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
