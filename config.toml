@@ -273,7 +273,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Notes"
-  url = "#posts"
+  url = "/post"
   weight = 3
 
 [[menu.main]]
