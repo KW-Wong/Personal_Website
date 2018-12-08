@@ -46,6 +46,7 @@ album = "1"
 image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
 caption = "1950s"
 +++
+In the single component two phase fluid, there would be a separate set of mass, momentum and energy equation for each of the phase. This is the basics of constructing the two fluid model, in which the two sets of equation are solved indepdently at each timestep and recombine with the usage of interface boundary condition. Nevertheless, the drawbacks of the two fluid model is that it based on mainly RANS terminology in which the interface contributions to momentum and energy are lost due to the lost of sharp interface.
 
 **OpenFOAM** is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
