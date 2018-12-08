@@ -29,4 +29,4 @@ weight = 5
 +++
 
 # Summary
-Wong Kin Wing is a second year of the joint MSc student in Nuclear Engineering between École Polytechnique Fédérale de Lausanne and ETH Zurich. He completed his undergraduate studies at City University of Hong Kong. His research interests lie in the area of computational fluid dynamics, thermal hydraulics and their applications to nuclear reactor safety.
+Wong Kin Wing is a second year of the joint MSc student in Nuclear Engineering between École Polytechnique Fédérale de Lausanne and ETH Zurich. He completed his undergraduate studies at City University of Hong Kong. His interests lie in the area of computational fluid dynamics, thermal hydraulics and their applications to nuclear reactor safety.
