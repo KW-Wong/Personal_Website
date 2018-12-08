@@ -7,7 +7,7 @@ draft = false
 math=true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Kin Wing Wong]
+authors = ["Kin Wing Wong"]
 
 tags = ["Academic"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
