@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["Wave Equation", "Finite Difference", "MATLAB"]
 
 # Optional external URL for project (replaces project detail page).
-pdf = "pdf/my-paper-name.pdf"
+url = "pdf/my-paper-name.pdf"
 
 # Does the project detail page use math formatting?
 math = true
