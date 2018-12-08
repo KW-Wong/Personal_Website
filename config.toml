@@ -271,10 +271,10 @@ enableGitInfo = false
   url = "/publication/#"
   weight = 4
 
-#[[menu.main]]
- # name = "Posts"
- # url = "#posts"
- # weight = 3
+[[menu.main]]
+  name = "Notes"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -291,10 +291,6 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
-[[menu.main]]
-  name = "Notes"
-  url = "#note"
-  weight = 5
 
 
 # Link to a PDF of your resume/CV from the menu.
