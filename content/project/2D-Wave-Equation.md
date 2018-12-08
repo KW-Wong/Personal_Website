@@ -26,7 +26,16 @@ math = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
+# Links (optional).
 url_pdf = "pdf/my-paper-name.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 +++
 
