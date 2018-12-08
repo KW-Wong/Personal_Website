@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["Wave Equation", "Finite Difference", "MATLAB"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+pdf = "pdf/my-paper-name.pdf"
 
 # Does the project detail page use math formatting?
 math = true
@@ -26,16 +26,6 @@ math = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
-# Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 
 +++
 
